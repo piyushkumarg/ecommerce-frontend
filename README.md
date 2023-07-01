@@ -1,15 +1,28 @@
 # ecommerce-frontend
 
-The ecommerce-frontend is a React-based frontend application designed to provide a user-friendly and interactive interface for an ecommerce platform. It serves as the client-side component of the ecommerce application, allowing users to browse products, add items to their cart, and complete the purchasing process.
+The ecommerce-frontend is a React-based frontend application designed to provide a user-friendly and interactive interface for an ecommerce platform. It serves as the client-side component of the ecommerce application, that provide seamless shopping experiences for both users and admins.
 
 ### Deployed Application [See Here](https://ecommerse-piy.netlify.app/)
 
-![ezgif com-optimize](https://github.com/piyushkumarg/TicTacToe/assets/83285872/4a7903c1-2ecc-4d85-81d9-7bed6b7317a9)
+![ecommerce-gif](https://github.com/piyushkumarg/TicTacToe/assets/83285872/4a7903c1-2ecc-4d85-81d9-7bed6b7317a9)
+
+## Features
+🛒 User Panel:
+- Sign in and Sign up
+- Product List and Product Detail
+- Cart and Checkout
+- Order History:
+- Search Results:
+
+👩‍💼 Admin Panel:
+- Order Management
+- Product Management:
+- Edit Product Details:
 
 ## Getting Started
-To get started  you can simply clone this `ecommerce-demo` repository and install the dependencies.
+To get started  you can simply clone this `ecommerce-frontend` repository and install the dependencies.
 
-Clone the `ecommerce-demo` repository using git:
+Clone the `ecommerce-frontend` repository using git:
 
 ```bash
 git clone git clone https://github.com/piyushkumarg/ecommerce-frontend
